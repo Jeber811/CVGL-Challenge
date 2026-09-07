@@ -1,6 +1,8 @@
 # [WRIVA Cross-View Geo-Localization Challenge](https://github.com/Jeber811/CVGL-Challenge)
 
+**Competitor:** jeber81
 **Leaderboard Rank:** 15th Place Globally | **Final Score:** 107.36
+**Official Results:** [Codabench Leaderboard](https://www.codabench.org/competitions/16082/#/results-tab)
 
 ## Overview
 This repository contains the inference and submission pipeline developed for the 2026 IARPA WRIVA Cross-View Geo-Localization (CVGL) Challenge. The objective of the system is to map sequential ground-level camera frames to overhead Maxar satellite GeoTIFFs by predicting precise geographic metadata (latitude, longitude, heading, pitch).
